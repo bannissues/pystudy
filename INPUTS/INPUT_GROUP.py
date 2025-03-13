@@ -4,4 +4,4 @@ name = data[0]
 age = data[1]
 height = data[2]
 
-print(f'i am {name.upper()}, i have {age} years old and {height} centimeters of height                              ')
+print(f'i am {name.upper()}, i have {age} years old and {height} centimeters of height')
