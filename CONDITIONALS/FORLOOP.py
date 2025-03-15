@@ -3,7 +3,7 @@ for number in range(1, 20, 2): # start, stop, step (in this case, only inpars nu
 
 for number in range(5, 105, 5):
     print (number)
-    if number == 100:
+    if number == 50:
         break
 
 
